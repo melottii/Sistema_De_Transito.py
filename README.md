@@ -1,11 +1,11 @@
 # Sistema_De_Transito.py
 
-Sistema de trânsito desenvolvido com as funcionalidades:
+    Sistema de trânsito desenvolvido com as funcionalidades:
 
-      Cadastro de motoristas;
+            Cadastro de motoristas;
 
-      Cadastro de automóveis;
+            Cadastro de automóveis;
 
-      Cadastro de infrações de trânsito;
+            Cadastro de infrações de trânsito;
 
-      Alteração de posse dos veículos;
+            Alteração de posse dos veículos;
